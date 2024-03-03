@@ -1,0 +1,10 @@
+D:\New folder\kpl\kpl\obj\Debug\kpl.csproj.AssemblyReference.cache
+D:\New folder\kpl\kpl\obj\Debug\kpl.Properties.Resources.resources
+D:\New folder\kpl\kpl\obj\Debug\kpl.csproj.GenerateResource.cache
+D:\New folder\kpl\kpl\obj\Debug\kpl.csproj.CoreCompileInputs.cache
+D:\New folder\kpl\kpl\bin\Debug\kpl.exe.config
+D:\New folder\kpl\kpl\bin\Debug\kpl.exe
+D:\New folder\kpl\kpl\bin\Debug\kpl.pdb
+D:\New folder\kpl\kpl\obj\Debug\kpl.Form1.resources
+D:\New folder\kpl\kpl\obj\Debug\kpl.exe
+D:\New folder\kpl\kpl\obj\Debug\kpl.pdb
